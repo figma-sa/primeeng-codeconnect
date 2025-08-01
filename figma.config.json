@@ -1,0 +1,15 @@
+{
+  "codeConnect": {
+    "interactiveSetupFigmaFileUrl": "https://www.figma.com/design/QyB9NW5gTwuSdzGC75ost8",
+    "include": ["src/prime/**/*","src/ford/**/*"],
+    "exclude": [],
+    "parser": "html",
+    "label": "PrimeOne-3.0.1",
+    "documentUrlSubstitutions": {
+      "<PRIMENG_ACCORDION>": "https://www.figma.com/design/x0yFS3zUIjCGA8DxdTAvJY?node-id=232-9351&",
+      "<PRIMENG_ACCORDION_HEADER>": "https://www.figma.com/design/x0yFS3zUIjCGA8DxdTAvJY?node-id=462-27453",
+      "<PRIMENG_ACCORDION_PANEL>": "https://www.figma.com/design/x0yFS3zUIjCGA8DxdTAvJY?node-id=233-9247",
+      "<PRIMENG_BUTTON>": "https://www.figma.com/design/x0yFS3zUIjCGA8DxdTAvJY?node-id=10-125"
+    }
+  }
+}
